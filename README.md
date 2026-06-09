@@ -24,10 +24,6 @@ This project is a personal blog and portfolio website developed for the CSD34203
 
 ## Folder Structure
 
-## Folder Structure
-
-## Folder Structure
-
 ```text
 personal-blog
 ├── index.html
