@@ -64,6 +64,10 @@ personal-blog
 
 ![About Page](images/About.png)
 
+## Demo Link
+
+This project has not been deployed yet.
+
 ## Author
 
 Nurdarwisyah binti Muhamad Zaharrudin,
